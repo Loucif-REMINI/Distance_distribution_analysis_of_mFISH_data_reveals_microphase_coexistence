@@ -1,0 +1,19 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: Analysis of mFISH chromatin data
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Loucif
+    family-names: REMINI
+    email: reminiloucif@gmail.com
+    orcid: 'https://orcid.org/0000-0001-8790-881X'
+  - given-names: Midas
+    family-names: Segers
+    orcid: 'https://orcid.org/0000-0002-1298-759X'
+repository-code: >-
+  https://github.com/Loucif-REMINI/Distance_distribution_analysis_of_mFISH_data_reveals_mcirophase_coexistence
