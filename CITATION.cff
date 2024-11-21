@@ -2,18 +2,34 @@
 # Visit https://bit.ly/cffinit to generate yours today!
 
 cff-version: 1.2.0
-title: Analysis of mFISH chromatin data
+title: >-
+  Analysis of mFISH chromatin data from human and mouse
+  cells
 message: >-
   If you use this software, please cite it using the
   metadata from this file.
 type: software
 authors:
   - given-names: Loucif
-    family-names: REMINI
+    family-names: Remini
     email: reminiloucif@gmail.com
     orcid: 'https://orcid.org/0000-0001-8790-881X'
   - given-names: Midas
     family-names: Segers
     orcid: 'https://orcid.org/0000-0002-1298-759X'
+  - given-names: Andrea
+    family-names: Parmeggiani
+    orcid: 'https://orcid.org/0000-0003-3025-4266'
+  - given-names: Enrico
+    family-names: Carlon
+    orcid: 'https://orcid.org/0000-0001-8266-1096'
+identifiers:
+  - type: other
+    value: >-
+      Loucif Remini, Midas Segers, Andrea Parmeggiani,
+      Enrico Carlon. Inferring interphase chromosomal
+      structure from multiplexed fluorescence in situ
+      hybridization data: a unified picture from human and
+      mouse cells. 2024. ⟨hal-04741167⟩
 repository-code: >-
   https://github.com/Loucif-REMINI/Distance_distribution_analysis_of_mFISH_data_reveals_mcirophase_coexistence
